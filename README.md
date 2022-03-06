@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Shameer, a tech enthusiast. In my spare time, I enjoy creating cool things to make my life easier. If you don't see any recent github activity, assume I'm busy designing a fantastic system for my employer.
+
 <!--
 **shameerahamed/shameerahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
