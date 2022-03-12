@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Shameer, a tech enthusiast. In my spare time, I enjoy creating cool things to make my life easier. If you don't see any recent github activity, assume I'm busy designing a fantastic system for my employer.
+I'm Shameer, a tech aficionado. In my spare time, I enjoy creating things that can automate boring routine works. If you don't see any recent github activity, then assume I'm busy designing a fantastic system for my current employer.
+
+- 🔭 I’m currently working on my side projects such as Automated personal finance, Due Reminder and Work Clocking.
+- 🌱 I’m currently learning iOS Swift, Flutter, Ionic, MongoDB and Python.
 
 <!--
 **shameerahamed/shameerahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
